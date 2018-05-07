@@ -503,7 +503,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #gtco-practice-areas,
 #gtco-our-team,
 #gtco-contact {
-  padding: 7em 0;
+  padding: 0em 0;
   clear: both;
 }
 
@@ -588,7 +588,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: block;
 }
 #gtco-our-team .team-item {
-  margin-bottom: 9em;
+  margin-bottom: 0em;
 }
 #gtco-our-team .team-item:last-child {
   margin-bottom: 0;
